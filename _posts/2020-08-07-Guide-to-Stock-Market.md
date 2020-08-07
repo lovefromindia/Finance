@@ -1,10 +1,3 @@
----
-layout: posts
-title:  "Stock Market"
-date:   2020-08-07 04:16:33 +0530
-categories: jekyll update
----
-
 **Stock market is a place where people buy and sell <u>Shares of Company</u>. Shares of Company are literally ‘piece’ in ownership of company or ‘some part’ in ownership of company.** 
 
 That is if you are buying shares of Company ‘X’ then you are getting a percentage ownership in Company ‘X’. That means you can be called “co-owner” of company. (Note: Shares and Stock both are interchangeably used for the same thing but we will only use 'share' for representing Part of Ownership)
@@ -14,8 +7,6 @@ OK, now brain is generating so many questions like:
 - Why the hell companies put their part of ownership of company for selling and buying?
 - Why the people buy and sell shares?
 - How people take decision when to buy and sell shares of Company? And other questions?
-
-{:toc}
 
 
 
@@ -29,11 +20,11 @@ But as Humans have no upper limit of satisfaction so you too don’t have. You w
 
 While planning to do so, you feel that for production of pens to be sold at such a level you need to produce the pens in large numbers. You need to setup at least two more factories.
 
-![Factory](\assets\images\Pic1.PNG)
+![Factory](\Finance\assets\images\Pic1.PNG)
 
 
 
-![Factory](\assets\images\Pic2.PNG)
+![Factory](\Finance\assets\images\Pic2.PNG)
 
 Now, for building factories, you need **LARGE CAPITAL i.e. MONEY**. But obviously you don’t have sufficient money for that.
 
@@ -57,7 +48,7 @@ This is not a loan as you are putting ownership of company on sell permanently. 
 
 The buyers of shares of company are called **Shareholders** of that company. That makes sense as they hold the share in ownership of your company.
 
-![Share representation](\assets\images\Pic3.PNG)
+![Share representation](\Finance\assets\images\Pic3.PNG)
 
 So now you understand,
 
@@ -83,9 +74,9 @@ As we have learn earlier, companies, sell some part of ownership of company as s
 
 - Does it mean that you(Owner of ABC PEN Company) have to give away your machines to people forever?
 
-![Don't Work This Way](\assets\images\Pic4.PNG)
+  ![Don't Work This Way](\Finance\assets\images\Pic4.PNG)
 
-![Don't Work This Way](\assets\images\Pic5.PNG)
+![Don't Work This Way](\Finance\assets\images\Pic5.PNG)
 
 Selling of some Part of Ownership doesn’t mean that you can’t use or authorize some part your factory or company. Also doesn’t mean shareholders can use machinery, things which belong to company just like that. NO!!
 
@@ -109,7 +100,7 @@ It depends on **number of shares**.
 
 For e.g. A company is divided into 100 shares. So having 1 share of company means to have own 1% of company. But if a company is divided into 10 shares, then having 1 share means to have whooping 10% ownership. So, in general,
 
-![](\assets\images\Pic6.PNG)
+![](\Finance\assets\images\Pic6.PNG)
 
 (Don’t worry about the term ‘outstanding’. I will tell you about it in some later blog.)
 
@@ -239,13 +230,13 @@ So we here learn that there are two types of reaction in Stock Market:
 
 1st is short term reaction which causes increase/decrease based upon possible future. Here both seller and buyer are having their own way of thinking about decisions they make. Any of them can be correct as there is probability of company making profit **or** loss. I would not say equal probability but still anyone can be correct as any of the events is not certain or have 100% chance by probability. 
 
-<img src="\assets\images\Pic7.PNG" alt="Voting machine in short term" style="zoom: 200%;" />
+<img src="\Finance\assets\images\Pic7.PNG" alt="Voting machine in short term" style="zoom: 200%;" />
 
 2nd is long term reaction which comes based upon how actual company made growth. Because share at the end of day reflect company’s value so if company performs well then its demand of shares among people will increase and if not performed well then less people would be interested to have that share. 
 
-<img src="\assets\images\Pic8.PNG" alt="Weighing Machine"/>
+<img src="\Finance\assets\images\Pic8.PNG" alt="Weighing Machine"/>
 
-![Weighing Machine](\assets\images\Pic9.PNG)
+![Weighing Machine](\Finance\assets\images\Pic9.PNG)
 
 So it should be noted that, the decision of a individual to buy/sell at his/her present time is correct or not, can only be known in future or near future.
 

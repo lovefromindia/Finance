@@ -29,7 +29,7 @@ github_username:  jekyll
 masthead_title: Stock guide 101 
 logo: "/assets/images/logo.png"
 # Build settings
-theme: minimal-mistakes-jekyll 
+remote_theme: "mmistakes/minimal-mistakes" 
 minimal_mistakes_skin: "mint"
 search: true
 plugins:
@@ -66,8 +66,8 @@ defaults:
       share: true
       related: true
       toc: true
-      toc_label: "CONTENTS AHEAD"
-      toc_icon: "cog"
+      toc_label: "CONTENTS COVERED"
+  #   toc_icon: "heart"
   # _pages
   - scope:
       path: "_pages"
