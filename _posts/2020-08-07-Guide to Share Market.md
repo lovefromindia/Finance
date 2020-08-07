@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Stock Market"
-date:   2020-08-07 04:16:33 +0530	
+date:   2020-08-07 04:16:33 +0530
 categories: jekyll update
 ---
 
