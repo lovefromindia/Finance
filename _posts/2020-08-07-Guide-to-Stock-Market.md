@@ -1,5 +1,4 @@
 **Stock market is a place where people buy and sell <u>Shares of Company</u>. Shares of Company are literally ‘piece’ in ownership of company or ‘some part’ in ownership of company.** 
-
 That is if you are buying shares of Company ‘X’ then you are getting a percentage ownership in Company ‘X’. That means you can be called “co-owner” of company. (Note: Shares and Stock both are interchangeably used for the same thing but we will only use 'share' for representing Part of Ownership)
 
 OK, now brain is generating so many questions like:
