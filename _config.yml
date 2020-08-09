@@ -23,7 +23,7 @@ email: mahir3.14pie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Everything about Finance from Stocks Markets, about banks and many much more
 baseurl: "/Finance" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lovefromindia.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 masthead_title: Stock guide 101 
